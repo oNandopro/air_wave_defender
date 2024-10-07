@@ -37,7 +37,7 @@ a {
 /* Header */
 header {
     display: flex;
-    background-color: #211D50 ;
+    background-color: #30353E ;
     color: white;
     padding: 20px;
     width: 100%;
@@ -78,9 +78,9 @@ main div p, h2, h3 {
 #button_two button{
     width: 500px;
     padding: 25px 85px;
-    background-color: #fdcf03a8;
+    background-image: linear-gradient(#4CB267 50%, #5dd67d);
     font-weight: 600px;
-    color: black;
+    color: white;
     border: none;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.599);
@@ -113,7 +113,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.555); 
+    background-color: rgb(0, 0, 0); 
     color: white;
     width: 100%;
     height: auto;

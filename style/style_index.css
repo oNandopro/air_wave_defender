@@ -19,7 +19,7 @@
     word-spacing: 0px;
     word-wrap: break-word; 
     box-sizing: border-box;
-    font-family: 'Quicksland', sans-serif;
+    font-family: 'Inter', sans-serif;
     
 }
 body {
@@ -38,7 +38,7 @@ a {
 header {
     display: flex;
     background-color: #E25302 ;
-    color: white;
+    color: black;
     padding: 20px;
     width: 100%;
 }
@@ -54,7 +54,7 @@ header {
     justify-content: start;
     align-items: center;
     font-size: 3em; 
-    color: white;
+    color: black;
 }
 .button_one {
     justify-content: end;
@@ -88,7 +88,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     width: 1162px; 
     margin: 0 auto; 
 }
@@ -125,9 +125,9 @@ main {
 }
 .button_two button{
     padding: 25px 85px;
-    background-image: linear-gradient(#FFF84F 50%, #fdcf03bb 50%);
+    background-image: linear-gradient(#4CB267 50%, #5dd67d);
     font-weight: 500;
-    color: #211D50;
+    color: white;
     border: none;
     border-radius: 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.599);
@@ -364,8 +364,8 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #D5D5D5; 
-    color: black;
+    background-color: #2B1F0E; 
+    color: white;
     width: 100%;
     height: auto;
     border-top: #0e0c2213 1px solid;
@@ -401,10 +401,10 @@ h4 {
     display: flex;
 }
 footer div p a {
-    color: black;
+    color: white;
 }
 footer h4 a {
-    color: black;
+    color: white;
     letter-spacing: 0px;
 }
 /* Media Query para telas menores (até 768px) */
