@@ -37,7 +37,7 @@ a {
 /* Header */
 header {
     display: flex;
-    background-color: #211D50 ;
+    background-color: #E25302 ;
     color: white;
     padding: 20px;
     width: 100%;
@@ -61,7 +61,7 @@ header {
 }
 .button_one button {
     padding: 15px 35px;
-    background-color: #D54545;
+    background-color: #37864c;
     font-weight: 700;
     color: white;
     border: none;
@@ -81,7 +81,7 @@ main {
     color: black;
     padding: 20px;
     width: 100%;
-    background-image: linear-gradient(#33AF93 60%, #BDDDD9);
+    background-image: linear-gradient( #E86E05 60%, #FFD60D);
 }
 .container_main {
     display: flex;
