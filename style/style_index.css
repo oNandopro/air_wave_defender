@@ -87,17 +87,16 @@ header {
 main {
     display: flex;
     flex: 1;
-    color: white;
     padding: 20px;
     width: 100%;
-    background-image: linear-gradient( #8D2303 60%, #D8731A);
+    background-image: linear-gradient(#DA771C 60%, #D8731A);
 }
 .container_main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     width: 1162px; 
     margin: 0 auto; 
 }
@@ -225,9 +224,6 @@ footer h4 a {
         display: none;
     }
     /* SECTION ONE */
-    main {
-        background-image: linear-gradient( #E86E05 20%, #FFD60D);
-    }
     .sec_one {
         display: flex;
         flex-direction: column;
@@ -305,9 +301,6 @@ footer h4 a {
         display: none;
     }
     /* SECTION ONE */
-    main {
-        background-image: linear-gradient( #E86E05 30%, #FFD60D);
-    }
     .sec_one {
         display: flex;
         flex-direction: column;
@@ -387,9 +380,6 @@ footer h4 a {
     }
     /* MAIN */
     /* SECTION ONE */
-    main {
-        background-image: linear-gradient( #E86E05 50%, #FFD60D);
-    }
     .sec_one {
         padding-left: 30px;
     }
