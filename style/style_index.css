@@ -124,13 +124,14 @@ main {
     margin-top: 100px;
 }
 .p_name {
-    text-align: justify;
     hyphens: auto;
     font-size: 1.3em;
+    line-height: 1.2em;
 }
 h2 {
     font-family: "permanent";
     font-size: 1.9em;
+    line-height: 1.2em;
 }
 .p_name p {
     margin-top: 25px;
@@ -263,15 +264,15 @@ footer h4 a {
         font-size: 1em;
     }
     .button_two button {
-        padding: 25px 35px;
+        padding: 25px 55px;
         margin-top: 30px;
         margin-bottom: 30px;
-        font-size: 1.1em;
+        font-size: 1.2em;
     }
    
     /* SECTION FOOTER */
     .container_footer {
-        font-size: 0.6em;
+        font-size: 0.8em;
         height: auto;
         text-align: center;
     }
